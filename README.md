@@ -1,5 +1,5 @@
 # haproxy-py
-[![Pypi](https://img.shields.io/pypi/v/innodb-optimize)](https://pypi.org/project/haproxy-py)
+[![Pypi](https://img.shields.io/pypi/v/haproxy-py)](https://pypi.org/project/haproxy-py)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://raw.githubusercontent.com/Scraps23/haproxy-py/main/LICENSE)
 [![GitHub Release Date](https://img.shields.io/github/release-date/Scraps23/innodb_optimize)](https://github.com/Scraps23/haproxy-py)
 
