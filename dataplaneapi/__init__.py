@@ -364,4 +364,4 @@ from dataplaneapi.models.userlist import Userlist
 from dataplaneapi.models.userlists import Userlists
 from dataplaneapi.models.users import Users
 
-version = '0.0.1'
+version = '0.0.2'
